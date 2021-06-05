@@ -1,6 +1,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=red17electro.red17electro)
 
 ### Hi there 👋
+- 🔭 I’m currently working as a Software Engineer at Carsync
+- 💬 Ask me about ...
+- 📫 How to reach me: t.me/red17electro
+- ⚡ Fun fact: people think that it is funny that my name is Server. Disclaimer: no, it's not :D 
 
 <!--
 **red17electro/red17electro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
