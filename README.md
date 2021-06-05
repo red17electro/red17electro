@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working as a Software Engineer at Carsync
-- 📫 How to reach me: [click here](t.me/red17electro)
+- 📫 How to reach me: [click here](https://t.me/red17electro)
 - ⚡ Fun fact: people think that it is funny that my name is Server. Disclaimer: no, it's not :D 
 
 <!--
