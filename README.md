@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=red17electro.red17electro)
 
 ### Hi there 👋
-- 🔭 I’m currently working as a Software Engineer at Carsync
+- 🔭 I’m currently working as a Software Engineer at Stryber
 - 📫 How to reach me: [click here](https://t.me/red17electro)
 - ⚡ Fun fact: people think that it is funny that my name is Server. Disclaimer: no, it's not :D 
 
